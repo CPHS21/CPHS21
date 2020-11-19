@@ -47,9 +47,9 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 
 ## Chairs
 
-- **Jie Liu**, Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute.
-- **Rong Zheng**, Professor in the Dept. of Computing and Software in McMaster University, Canada.
-- **Tam Vu**, Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US.  
+- **Jie Liu**, Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute. [WEB](https://scholar.google.com/citations?user=AJKK2ikAAAAJ&hl=zh-CN) 
+- **Rong Zheng**, Professor in the Dept. of Computing and Software in McMaster University, Canada. [WEB](http://www.cas.mcmaster.ca/~rzheng/)
+- **Tam Vu**, Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US. [WEB](https://www.colorado.edu/cs/tam-vu)
 
 ## Program Committee
 
