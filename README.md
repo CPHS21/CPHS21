@@ -47,25 +47,25 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 
 ## Chairs
 
-- **Jie Liu** Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute.
-- **Rong Zheng** Professor in the Dept. of Computing and Software in McMaster University, Canada.
-- **Tam Vu** Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US.  
+- **Jie Liu**, Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute.
+- **Rong Zheng**, Professor in the Dept. of Computing and Software in McMaster University, Canada.
+- **Tam Vu**, Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US.  
 
 ## Program Committee
 
-- **David Chu** Google,USA.
-- **Nic Lane** University of Cambridge, UK.
-- **Hae Young Noh** Stanford University, USA.
-- **Bodhi Priyantha** Microsoft Research,USA.
-- **Feng Jiang** Harbin Institute of Technology, China.
-- **Guoliang Xing** The Chinese University of Hong Kong, China.
-- **Junhua Song** Korea Advanced Institute of Science and Technology, Korea.
-- **Jorge Ortiz** Rutgers University, USA.
-- **Wenyao Xu** University of Bufflo, USA.
-- **David Kotz** Dartmouth University, USA.
-- **Mi Zhang** Michigan State University, USA.
-- **Maria Gorlatova** Duke Univesity, USA.
-- **Rasit Eskicioglu** University of Manitoba, Canada.
+- **David Chu**, Google,USA.
+- **Nic Lane**, University of Cambridge, UK.
+- **Hae Young Noh**, Stanford University, USA.
+- **Bodhi Priyantha**, Microsoft Research,USA.
+- **Feng Jiang**, Harbin Institute of Technology, China.
+- **Guoliang Xing**, The Chinese University of Hong Kong, China.
+- **Junhua Song**, Korea Advanced Institute of Science and Technology, Korea.
+- **Jorge Ortiz**, Rutgers University, USA.
+- **Wenyao Xu**, University of Bufflo, USA.
+- **David Kotz**, Dartmouth University, USA.
+- **Mi Zhang**, Michigan State University, USA.
+- **Maria Gorlatova**, Duke Univesity, USA.
+- **Rasit Eskicioglu**, University of Manitoba, Canada.
 
 
 
