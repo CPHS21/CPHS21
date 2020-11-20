@@ -1,5 +1,6 @@
-# CPHS20 Workshop - virtual 
-# 1st International Workshop on Cyber-Physical-Human System Design and Implementation
+# CPHS20 Workshop - virtual
+
+## 1st International Workshop on Cyber-Physical-Human System Design and Implementation
 
 
 **Call for contributions and participation!**
@@ -12,6 +13,7 @@ Cyber-physical-human systems (CPH) are the foundation of many emerging applicati
 
 This workshop intents to bring together academic, industrial, and government researchers to exchange CPHS design and implementation challenges and latest research results. We will solicit invited papers and open submissions. Both papers will be reviewed based on their research vision and academic contribution. We will also solicit posters for early work. 
 
+
 ## Topics of Interest
 
 - Cognitive science foundation of human behavior and intent
@@ -23,6 +25,7 @@ This workshop intents to bring together academic, industrial, and government res
 - Modeling, programming, inferencing, interfacing, and testing CPHS
 - Data management, data quality, and machine learning
 - CPHS applications, prototypes, and experiences 
+
 
 ## Call For Contributions
 
@@ -39,17 +42,20 @@ Moreover, the program committee will select excellent contributions for the best
 
 We also welcome **nomination for the keynote speakers, the steering committee and the program committee of our workshop**.  The steering committee is responsible for selecting the chairs of  the next CPHs workshop. 
 
+
 ## Dates (Tentative)
 
 - Submission deadline: 2/7/2021
 - Acceptance notification: 3/5/20201
 - Final manuscripts: 3/31/2021
 
+
 ## Chairs
 ![ ](https://github.com/CPHS20/CPHS20.github.io/blob/main/images/CPHS-chairs.png)
 - **Jie Liu**, Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute. [WEB](https://scholar.google.com/citations?user=AJKK2ikAAAAJ&hl=zh-CN) 
 - **Rong Zheng**, Professor in the Dept. of Computing and Software in McMaster University, Canada. [WEB](http://www.cas.mcmaster.ca/~rzheng/)
 - **Tam Vu**, Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US. [WEB](https://www.colorado.edu/cs/tam-vu)
+
 
 ## Program Committee
 
@@ -67,8 +73,10 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 - **Maria Gorlatova**, Duke Univesity, USA.
 - **Rasit Eskicioglu**, University of Manitoba, Canada.
 
+
 ## Publication Chair
 - **Siyao Chen**, Haribin Institute of Technology, China. Email: csy@hit.edu.cn.
+
 
 ## Digital Support Chair 
 - **Chunzhi Yi**, Harbin Institute of Technology, China. Email: chunzhiyi@hit.edu.cn.
