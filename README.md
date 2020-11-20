@@ -5,7 +5,7 @@
 
 **Call for contributions and participation!**
 
-Full-day workshop on May 18th, 2021 at [CPS-IOT Week](https://cps-iot-week2021.isis.vanderbilt.edu/#:~:text=CPS-IoT%20Week%20is%20the%20premier%20event%20on%20Cyber-Physical,CPS%2C%20and%20reunites%20the%20leading%20researchers%20in%20). The CPS-IOT Week contains five top conferences, HSCC, ICCPS, IPSN, RTAS and IoTDI, multiple worshops and tutorials and exhibitions. 
+Full-day workshop on May 18th, 2021 at [CPS-IOT Week](https://cps-iot-week2021.isis.vanderbilt.edu/#:~:text=CPS-IoT%20Week%20is%20the%20premier%20event%20on%20Cyber-Physical,CPS%2C%20and%20reunites%20the%20leading%20researchers%20in%20). The CPS-IOT Week contains five top conferences, HSCC, ICCPS, IPSN, RTAS and IoTDI, multiple workshops and tutorials and exhibitions. 
 
 ## Description
 
