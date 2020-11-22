@@ -34,7 +34,7 @@ workshop at CPS-IOT Week, to be held in Nashville, the US, on May 18th, 2021.
 
 We welcome participants to submit **full papers (MAX 8 pages), posters (MAX 2 pages) and 5-min videos** of relevant work. All the submissions will be  peer-reviewed by at least 3 reviewers. All the accepted submissions will be posted on the workshop's website and accepted full papers will be published on-line via IEEE Xplore. 
 
-Submissions must be sent in pdf, following the IEEE conference style (two-columns) by the HotCRP system. For video submissions, please submit a pdf explaining the video and embed the link on the text. Any questions please send an email to chunzhiyi@hit.edu.cn.
+Submissions must be sent in pdf, following the IEEE conference style (two-columns) by the [HotCRP system](https://cphs20.hotcrp.com/). For video submissions, please submit a pdf explaining the video and embed the link on the text. Any questions please send an email to chunzhiyi@hit.edu.cn.
 
 Accepted contributions will have the opportunity to present their work/ideas to the audience of our workshop. 
 
@@ -51,7 +51,7 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 
 
 ## Chairs
-![Chairs](https://github.com/CPHS20/CPHS20.github.io/blob/main/images/Chairs.jpg)
+![ ](https://github.com/CPHS20/CPHS20.github.io/blob/main/images/Chairs.jpg)
 - **Jie Liu**, Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute. [Web](https://scholar.google.com/citations?user=AJKK2ikAAAAJ&hl=zh-CN) 
 - **Rong Zheng**, Professor in the Dept. of Computing and Software in McMaster University, Canada. [Web](http://www.cas.mcmaster.ca/~rzheng/)
 - **Tam Vu**, Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US. [Web](https://www.colorado.edu/cs/tam-vu)
