@@ -40,7 +40,7 @@ Accepted contributions will have the opportunity to present their work/ideas to 
 
 Moreover, the program committee will select excellent contributions for the best paper award. 
 
-We also welcome **nomination for the keynote speakers, the steering committee and the program committee of our workshop**.  The steering committee is responsible for selecting the chairs of  the next CPHs workshop. 
+We also welcome **nomination for the keynote speakers, the steering committee and the program committee of our workshop**.  The steering committee is responsible for organizing the next CPHS workshop. 
 
 
 ## Dates (Tentative)
@@ -52,9 +52,9 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 
 ## Chairs
 ![ ](https://github.com/CPHS20/CPHS20.github.io/blob/main/images/CPHS-chairs.png)
-- **Jie Liu**, Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute. [WEB](https://scholar.google.com/citations?user=AJKK2ikAAAAJ&hl=zh-CN) 
-- **Rong Zheng**, Professor in the Dept. of Computing and Software in McMaster University, Canada. [WEB](http://www.cas.mcmaster.ca/~rzheng/)
-- **Tam Vu**, Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US. [WEB](https://www.colorado.edu/cs/tam-vu)
+- **Jie Liu**, Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute. [Web](https://scholar.google.com/citations?user=AJKK2ikAAAAJ&hl=zh-CN) 
+- **Rong Zheng**, Professor in the Dept. of Computing and Software in McMaster University, Canada. [Web](http://www.cas.mcmaster.ca/~rzheng/)
+- **Tam Vu**, Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US. [Web](https://www.colorado.edu/cs/tam-vu)
 
 
 ## Program Committee
