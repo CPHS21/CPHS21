@@ -51,7 +51,7 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 
 
 ## Chairs
-![ ](https://github.com/CPHS20/CPHS20.github.io/blob/main/images/Chairs.jpg)
+![ ](https://github.com/CPHS20/CPHS20.github.io/blob/main/images/Chairs-cphs.jpg)
 - **Jie Liu**, Chair Professor at Harbin Institute of Technology (Shenzhen), China and the Dean of its AI Research Institute. [Web](https://scholar.google.com/citations?user=AJKK2ikAAAAJ&hl=zh-CN) 
 - **Rong Zheng**, Professor in the Dept. of Computing and Software in McMaster University, Canada. [Web](http://www.cas.mcmaster.ca/~rzheng/)
 - **Tam Vu**, Associate Professor in the Dept. of Computer Science  in University of Colorado Boulder, the US. [Web](https://www.colorado.edu/cs/tam-vu)
