@@ -63,7 +63,7 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 - **Bodhi Priyantha**, Microsoft Research,USA.
 - **Feng Jiang**, Harbin Institute of Technology, China.
 - **Guoliang Xing**, The Chinese University of Hong Kong, China.
-- **Junhua Song**, Korea Advanced Institute of Science and Technology, Korea.
+- **Junehwa Song**, Korea Advanced Institute of Science and Technology, Korea.
 - **Jorge Ortiz**, Rutgers University, USA.
 - **Wenyao Xu**, University of Bufflo, USA.
 - **David Kotz**, Dartmouth University, USA.
