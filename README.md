@@ -44,9 +44,9 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 
 ## Dates (Tentative)
 
-- Submission deadline: 2/7/2021
-- Acceptance notification: 3/5/20201
-- Final manuscripts: 3/31/2021
+- Submission deadline: 7 Feburary 2021 11:59:59pm AoE
+- Acceptance notification: 5 March 2021 11:59:59pm AoE
+- Final manuscripts: 31 March 2021 11:59:59pm AoE
 
 
 ## Technical Program Co-Chairs
