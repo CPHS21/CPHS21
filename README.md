@@ -72,7 +72,7 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 ## Publication Chair
 - **Siyao Chen**, Haribin Institute of Technology, China. Email: csy@hit.edu.cn.
 
- 
+  
 ## Digital Support Chair 
 - **Chunzhi Yi**, Harbin Institute of Technology, China. Email: chunzhiyi@hit.edu.cn.
 
