@@ -33,7 +33,7 @@ We cordially invite you to submit your contribution to the workshop.
 
 We welcome submissions of **full papers (MAX 8 pages), posters (MAX 2 pages) and 5-min videos** of relevant work. All the submissions will be  peer-reviewed by at least 3 reviewers. All the accepted submissions will be posted on the workshop's website and accepted full papers will be published on-line via IEEE Xplore. 
 
-Submissions must be sent in pdf, following the [IEEE conference style (two-columns)](https://www.ieee.org/conferences/publishing/templates.html) by the [HotCRP system](https://cphs21.hotcrp.com). For video submissions, please submit a pdf explaining the video and embed the link on the text. Any questions please send an email to chunzhiyi@hit.edu.cn.
+Submissions must be sent in pdf, following the [ACM conference template](https://www.acm.org/publications/proceedings-template) by the [HotCRP system](https://cphs21.hotcrp.com). For video submissions, please submit a pdf explaining the video and embed the link on the text. Any questions please send an email to chunzhiyi@hit.edu.cn.
 
 Accepted contributions will have the opportunity to present their work/ideas to the audience of our workshop. 
 
