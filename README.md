@@ -33,7 +33,7 @@ We cordially invite you to submit your contribution to the workshop.
 
 We welcome submissions of **full papers (MAX 6 pages) and extended abstracts (MAX 2 pages)** of original work. All the accepted papers and extended abstracts will be posted on the workshop’s website and included in the ACM Digital Library.
 
-Submissions must be sent in PDF format, 9 pt font, following the [ACM conference template](https://www.acm.org/publications/proceedings-template) by the [HotCRP system](https://cphs21.hotcrp.com). For video submissions, please submit a pdf explaining the video and embed the link on the text. Any questions please send an email to CPHS21@126.com.
+Submissions must be sent in PDF format, 9 pt font, following the [ACM conference template](https://www.acm.org/publications/proceedings-template) by the [HotCRP system](https://cphs21.hotcrp.com). Any questions please send an email to CPHS21@126.com.
 
 Accepted contributions will have the opportunity to present their work/ideas to the audience of our workshop. 
 
