@@ -18,7 +18,7 @@ This workshop intents to bring together academic, industrial, and government res
 
 - Cognitive science foundation of human behavior and intent
 - Human intent prediction and behavior understanding
-- Scene understand and human-robot/object interaction
+- Scene understanding and human-robot/object interaction
 - Ethics, security, privacy and safety issues in CPHS
 - On-body, implantable, and ambient devices for CPHS
 - System architecture, network protocol, and services for CPHS
@@ -31,9 +31,9 @@ This workshop intents to bring together academic, industrial, and government res
 
 We cordially invite you to submit your contribution to the workshop. 
 
-We welcome submissions of **full papers (MAX 8 pages), posters (MAX 2 pages) and 5-min videos** of relevant work. All the submissions will be  peer-reviewed by at least 3 reviewers. All the accepted submissions will be posted on the workshop's website and accepted full papers will be published on-line via ACM Digital Library. 
+We welcome submissions of **full papers (MAX 6 pages) and extended abstracts (MAX 2 pages)** of original work. All the accepted papers and extended abstracts will be posted on the workshop’s website and included in the ACM Digital Library.
 
-Submissions must be sent in pdf, following the [ACM conference template](https://www.acm.org/publications/proceedings-template) by the [HotCRP system](https://cphs21.hotcrp.com). For video submissions, please submit a pdf explaining the video and embed the link on the text. Any questions please send an email to CPHS21@126.com.
+Submissions must be sent in PDF format, 9 pt font, following the [ACM conference template](https://www.acm.org/publications/proceedings-template) by the [HotCRP system](https://cphs21.hotcrp.com). For video submissions, please submit a pdf explaining the video and embed the link on the text. Any questions please send an email to CPHS21@126.com.
 
 Accepted contributions will have the opportunity to present their work/ideas to the audience of our workshop. 
 
@@ -56,8 +56,12 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 
 
 ## Technical Program Committee (TBD)
-
-- **Nic Lane**, University of Cambridge, UK.
+- **Dan Wang**, Hongkong Polytechnic University, China.
+- **Weitao Xu**, City University of Hongkong, China.
+- **Alberto Cerpa**, UC Merced, USA.
+- **Yuan He**, Tsinghua University, China.
+- **Wenlong Zhang**, Arizona State University, USA.
+- **Nicholas Lane**,  Cambridge University, UK.
 - **Bodhi Priyantha**, Microsoft Research,USA.
 - **Feng Jiang**, Harbin Institute of Technology, China.
 - **Guoliang Xing**, The Chinese University of Hong Kong, China.
@@ -67,6 +71,7 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 - **Mi Zhang**, Michigan State University, USA.
 - **Maria Gorlatova**, Duke Univesity, USA.
 - **Rasit Eskicioglu**, University of Manitoba, Canada.
+- **Hao Su**, City University of New York, USA.
 
 
 ## Publication Chair
