@@ -48,6 +48,10 @@ We also welcome **nomination for the keynote speakers, the steering committee an
 - Acceptance notification: 5 March 2021 11:59:59pm AoE
 - Final manuscripts: 31 March 2021 11:59:59pm AoE
 
+## Keynote Speaker 
+- **Daqing Zhang**, Chair Professor at the School of EECS, Peking University, China and Vice-Chair of CCF Pervasive Computing Technical Committee. His research interests include context-aware computing, mobile computing, big data analytics and pervasive elderly care. He obtained his Ph.D. from University of Rome “La Sapienza”, Italy in 1996.
+
+He is the associate editor for IEEE Pervasive Computing, IEEE Transactions on Big Data, ACM Transactions on Intelligent Systems and Technology, ACM Proceeding of IMWUT, etc..
 
 ## Technical Program Co-Chairs
 - **Jie Liu**, Harbin Institute of Technology (Shenzhen), China. [Web](https://scholar.google.com/citations?user=AJKK2ikAAAAJ&hl=zh-CN) 
