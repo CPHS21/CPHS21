@@ -37,9 +37,7 @@ Submissions must be sent in PDF format, 9 pt font, following the [ACM conference
 
 Accepted contributions will have the opportunity to present their work/ideas to the audience of our workshop. 
 
-Moreover, the program committee will select excellent contributions for the best paper award. 
-
-We also welcome **nomination for the keynote speakers, the steering committee and the program committee of our workshop**.  The steering committee is responsible for organizing the next CPHS workshop. 
+Moreover, the program committee will select excellent contributions for the best paper award.  
 
 
 ## Dates (Tentative)
