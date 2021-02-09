@@ -43,7 +43,7 @@ Moreover, the program committee will select excellent contributions for the best
 ## Dates (Tentative)
 
 - Submission deadline: 21 Feburary 2021 11:59:59pm AoE
-- Acceptance notification: 5 March 2021 11:59:59pm AoE
+- Acceptance notification: 19 March 2021 11:59:59pm AoE
 - Final manuscripts: 31 March 2021 11:59:59pm AoE
 
 ## Keynote Speaker 
