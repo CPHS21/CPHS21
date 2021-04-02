@@ -27,7 +27,7 @@ This workshop intents to bring together academic, industrial, and government res
 ________________________________________________________________________________________________________________
   
 
-# Tuesday, May 18th, 2021
+# Tentative Program (Tuesday, May 18th, 2021)
 
 ##  Opening Remark
 6:55PM EST
@@ -52,7 +52,7 @@ ________________________________________________________________________________
                   
      Murtadha Aldeer (Rutgers University), Richard Howard (Rutgers University), Richard P. Martin (Rutgers University), Jorge Ortiz (Rutgers University)
                   
-- **cphs21-s1-paper4**: ***Postural Balance of Kneeling Gaits on Inclined and Elevated Surface for Construction Workers***
+- **cphs21-s1-paper4**: ***Postural Balance of Kneeling Gaits on Inclined and Elevated Surface for Construction Workers (invited)***
                   
      Siyu Chen (Rutgers University), Yi Yu (Rutgers University), Chong Di (Rutgers University), Duncan T. Stevenson (Rowan University), Mitja Trkov (Rowan University), Jie Gong (Rutgers University), and Jingang Yi (Rutgers University)
 
