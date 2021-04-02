@@ -27,24 +27,34 @@ This workshop intents to bring together academic, industrial, and government res
 - CPHS applications, prototypes, and experiences 
 
 
-## Call For Contributions
+  
 
-We cordially invite you to submit your contribution to the workshop. 
+# Tuesday, May 18th, 2021
+6:55PM EST ## Opening Remark
+           
+7 - 8PM EST ***Keynote***
 
-We welcome submissions of **full papers (MAX 6 pages) and extended abstracts (MAX 2 pages)** of original work. The review of our workshop will be double-blinded. All the accepted papers and extended abstracts will be posted on the workshop’s website and included in the ACM Digital Library.
+Session 1: Human Sensing  (8 - 9) 12 min + 3 min Q & A
+—————————
+1. Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition (EST)
+2. Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling (PST)
+3. Is That You Again? Adaptive Learning Techniques for User Identification in Smart Pill Bottle Systems (EST)
+4. Postural Balance of Kneeling Gaits on Inclined and Elevated Surface for Construction Workers  (China) 
 
-Submissions must be sent in PDF format, 9 pt font, following the [ACM conference template](https://www.acm.org/publications/proceedings-template). The authors can submit through the [HotCRP system](https://cphs21.hotcrp.com). Any questions please send an email to CPHS21@126.com.
+Panel Discussion (9 - 10PM EST) 
 
-Accepted contributions will have the opportunity to present their work/ideas to the audience of our workshop. 
+Session 2: Sensing for Human (10:10 - 10:30PM EST)
+———————————
+5. A Low-Cost and Scalable Personalized Thermal Comfort Estimation System in Indoor (EST) 12 min + 3 min Q & A
+6. Poster/Demo: Metadata-based IoT device automated management system (China) 5 min 
 
-Moreover, the program committee will select excellent contributions for the best paper award.  
 
+Session 3: Robotics and Assistive Technologies for Human (10:30 - 11:00PM EST)
+————————————————————————
+7. ADAS-RL: Adaptive Vector Scaling Reinforcement Learning For Human-in-the-Loop Lane Departure Warning (PST)
+ 8. Design of a Lightweight and Flexible Knee Exoskeleton with Compensation Strategy (China)
 
-## Dates (Tentative)
-
-- Submission deadline: 21 Feburary 2021 11:59:59pm AoE
-- Acceptance notification: 12 March 2021 11:59:59pm AoE
-- Final manuscripts: 31 March 2021 11:59:59pm AoE
+Closing Remark (11:00PM EST)
 
 ## Keynote Speaker 
 - **Daqing Zhang**, Chair Professor at the School of EECS, Peking University, China and Vice-Chair of CCF Pervasive Computing Technical Committee. His research interests include context-aware computing, mobile computing, big data analytics and pervasive elderly care. He obtained his Ph.D. from University of Rome “La Sapienza”, Italy in 1996. He is the associate editor for IEEE Pervasive Computing, IEEE Transactions on Big Data, ACM Transactions on Intelligent Systems and Technology, ACM Proceeding of IMWUT, etc.. In recent years, he has been exploring new areas such as "Social and Community Intelligence (SCI)", "Mobile Crowd Sensing (MCS)" and "Contactless Sensing" which aim to push context-aware computing to new frontiers. Dr. Zhang is the winner of the Ten-years CoMoRea impact paper award at IEEE PerCom 2013, the Honorable Mention Award at ACM UbiComp 2016 and 2015, the Best Paper award at IEEE UIC 2015 and 2012, and the Best Paper Runner Up award at Mobiquitous 2011.
