@@ -1,4 +1,3 @@
-@import "jekyll-theme-leap-day"
 # CPHS21 Workshop - virtual
 
 ## The First International Workshop on Cyber-Physical-Human System Design and Implementation
@@ -29,38 +28,44 @@ This workshop intents to bring together academic, industrial, and government res
   
 
 # Tuesday, May 18th, 2021
-## EST Opening Remark
-
+##  Opening Remark
+6:55PM EST
            
-## 7 - 8PM EST Keynote
+## EST Keynote
+7 - 8PM  EST
  **Daqing Zhang**, Chair Professor at the School of EECS, Peking University, China and Vice-Chair of CCF Pervasive Computing Technical Committee. His research interests include context-aware computing, mobile computing, big data analytics and pervasive elderly care. He obtained his Ph.D. from University of Rome “La Sapienza”, Italy in 1996. He is the associate editor for IEEE Pervasive Computing, IEEE Transactions on Big Data, ACM Transactions on Intelligent Systems and Technology, ACM Proceeding of IMWUT, etc.. In recent years, he has been exploring new areas such as "Social and Community Intelligence (SCI)", "Mobile Crowd Sensing (MCS)" and "Contactless Sensing" which aim to push context-aware computing to new frontiers. Dr. Zhang is the winner of the Ten-years CoMoRea impact paper award at IEEE PerCom 2013, the Honorable Mention Award at ACM UbiComp 2016 and 2015, the Best Paper award at IEEE UIC 2015 and 2012, and the Best Paper Runner Up award at Mobiquitous 2011.
 
-## Session 1: Human Sensing  (8 - 9) 12 min + 3 min Q & A
-—————————
-body {
-    font-family: "Times New Roman", "MSKT";  
-    font-size: 20px;  
-}
-cphs21-s1-paper1: Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition 
-2. Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling (PST)
-3. Is That You Again? Adaptive Learning Techniques for User Identification in Smart Pill Bottle Systems (EST)
-4. Postural Balance of Kneeling Gaits on Inclined and Elevated Surface for Construction Workers  (China) 
+## Session 1: Human Sensing  
+8 - 9PM EST,  12 min + 3 min Q & A for each paper
+cphs21-s1-paper1: ***Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition***
+                 *Tahiya Chowdhury (Rutgers University), Murtadha Aldeer (Rutgers University), Richard Howard (Rutgers University), Justin Yu (Rutgers University), Joseph Florentine (Rutgers University), Amber Haynes (Rutgers University), Jorge Ortiz (Rutgers University)
+cphs21-s1-paper2: ***Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling*** 
+                  *Tong Yu (Carnegie Mellon University), Yue Zhang (University of California, Merced), Zhizhang Hu (University of California, Merced), Susu Xu (Stony Brook University), Shijia Pan (University of California, Merced), Tong Yu (Carnegie Mellon University)
+cphs21-s1-paper3: ***Is That You Again? Adaptive Learning Techniques for User Identification in Smart Pill Bottle Systems***
+                  *Murtadha Aldeer (Rutgers University), Richard Howard (Rutgers University), Richard P. Martin (Rutgers University), Jorge Ortiz (Rutgers University)
+cphs21-s1-paper3: ***Postural Balance of Kneeling Gaits on Inclined and Elevated Surface for Construction Workers***
+                  *Siyu Chen (Rutgers University), Yi Yu (Rutgers University), Chong Di (Rutgers University), Duncan T. Stevenson (Rowan University), Mitja Trkov (Rowan University), Jie Gong (Rutgers University), and Jingang Yi (Rutgers University)
 
-Panel Discussion (9 - 10PM EST) 
+## Panel Discussion 
+9 - 10PM EST
 
-Session 2: Sensing for Human (10:10 - 10:30PM EST)
-———————————
-5. A Low-Cost and Scalable Personalized Thermal Comfort Estimation System in Indoor (EST) 12 min + 3 min Q & A
-6. Poster/Demo: Metadata-based IoT device automated management system (China) 5 min 
+## Session 2: Sensing for Human
+10:10 - 10:30PM EST, 12 min + 3 min Q & A for the paper, 5 min for the demo/poster
+cphs21-s2-paper1: ***A Low-Cost and Scalable Personalized Thermal Comfort Estimation System in Indoor*** 
+                  *Peter Wei (Columbia University), Yanchen Liu (Columbia University), Hengjiu Kang (Columbia University), Chenye Yang (Columbia University), Xiaofan Jiang (Columbia University)
+cphs21-s2-demo/poster:  ***Poster/Demo: Metadata-based IoT device automated management system***
+                        *Zhaoxin Luo (Haribin Institute of Technology), Zhijun Li (Haribin Institute of Technology), Simin Luan (Harbin Engineering University), Weijun Zhuang (Haribin Institute of Technology (Shenzhen)), Junqi Yang (Haribin Institute of Technology)
 
 
-Session 3: Robotics and Assistive Technologies for Human (10:30 - 11:00PM EST)
-————————————————————————
-7. ADAS-RL: Adaptive Vector Scaling Reinforcement Learning For Human-in-the-Loop Lane Departure Warning (PST)
- 8. Design of a Lightweight and Flexible Knee Exoskeleton with Compensation Strategy (China)
-
-Closing Remark (11:00PM EST)
-
+## Session 3: Robotics and Assistive Technologies for Human
+10:30 - 11:00PM EST, 12 min + 3 min Q & A for each paper
+cphs21-s3-paper1: ***ADAS-RL: Adaptive Vector Scaling Reinforcement Learning For Human-in-the-Loop Lane Departure Warning***
+                  *Armand Ahadi-Sarkani (University of California, Irvine), Salma Elmalaki (University of California, Irvine)
+cphs21-s3-paper2: ***Design of a Lightweight and Flexible Knee Exoskeleton with Compensation Strategy***
+                  *Zhipeng Wang (Haribin Institute of Technology), Chifu Yang (Haribin Institute of Technology), Feng Jiang (Haribin Institute of Technology), Chunzhi Yi (Haribin Institute of Technology), Zhen Ding (Haribin Institute of Technology), Baichun Wei (Haribin Institute of Technology), Jie Liu (Haribin Institute of Technology (Shenzhen))
+                  
+## Closing Remark
+11:00PM EST
 
 
 ## Technical Program Co-Chairs
