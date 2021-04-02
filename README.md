@@ -1,3 +1,4 @@
+@import "jekyll-theme-leap-day"
 # CPHS21 Workshop - virtual
 
 ## The First International Workshop on Cyber-Physical-Human System Design and Implementation
@@ -28,7 +29,7 @@ This workshop intents to bring together academic, industrial, and government res
   
 
 # Tuesday, May 18th, 2021
- ## 6：55PM EST Opening Remark
+## EST Opening Remark
 
            
 ## 7 - 8PM EST Keynote
