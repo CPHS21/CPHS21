@@ -41,15 +41,19 @@ This workshop intents to bring together academic, industrial, and government res
 8 - 9PM EST,  12 min + 3 min Q & A for each paper
 
 cphs21-s1-paper1: ***Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition***
+                 
                  *Tahiya Chowdhury (Rutgers University), Murtadha Aldeer (Rutgers University), Richard Howard (Rutgers University), Justin Yu (Rutgers University), Joseph Florentine (Rutgers University), Amber Haynes (Rutgers University), Jorge Ortiz (Rutgers University)
                  
 cphs21-s1-paper2: ***Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling*** 
+                  
                   *Tong Yu (Carnegie Mellon University), Yue Zhang (University of California, Merced), Zhizhang Hu (University of California, Merced), Susu Xu (Stony Brook University), Shijia Pan (University of California, Merced), Tong Yu (Carnegie Mellon University)
                   
 cphs21-s1-paper3: ***Is That You Again? Adaptive Learning Techniques for User Identification in Smart Pill Bottle Systems***
+                  
                   *Murtadha Aldeer (Rutgers University), Richard Howard (Rutgers University), Richard P. Martin (Rutgers University), Jorge Ortiz (Rutgers University)
                   
-cphs21-s1-paper3: ***Postural Balance of Kneeling Gaits on Inclined and Elevated Surface for Construction Workers***
+cphs21-s1-paper4: ***Postural Balance of Kneeling Gaits on Inclined and Elevated Surface for Construction Workers***
+                  
                   *Siyu Chen (Rutgers University), Yi Yu (Rutgers University), Chong Di (Rutgers University), Duncan T. Stevenson (Rowan University), Mitja Trkov (Rowan University), Jie Gong (Rutgers University), and Jingang Yi (Rutgers University)
 
 ## Panel Discussion 
@@ -59,9 +63,11 @@ cphs21-s1-paper3: ***Postural Balance of Kneeling Gaits on Inclined and Elevated
 10:10 - 10:30PM EST, 12 min + 3 min Q & A for the paper, 5 min for the demo/poster
 
 cphs21-s2-paper1: ***A Low-Cost and Scalable Personalized Thermal Comfort Estimation System in Indoor*** 
+                  
                   *Peter Wei (Columbia University), Yanchen Liu (Columbia University), Hengjiu Kang (Columbia University), Chenye Yang (Columbia University), Xiaofan Jiang (Columbia University)
                   
-cphs21-s2-demo/poster:  ***Poster/Demo: Metadata-based IoT device automated management system***
+cphs21-s2-demo/poster1:  ***Poster/Demo: Metadata-based IoT device automated management system***
+                        
                         *Zhaoxin Luo (Haribin Institute of Technology), Zhijun Li (Haribin Institute of Technology), Simin Luan (Harbin Engineering University), Weijun Zhuang (Haribin Institute of Technology (Shenzhen)), Junqi Yang (Haribin Institute of Technology)
 
 
@@ -70,9 +76,11 @@ cphs21-s2-demo/poster:  ***Poster/Demo: Metadata-based IoT device automated mana
 10:30 - 11:00PM EST, 12 min + 3 min Q & A for each paper
 
 cphs21-s3-paper1: ***ADAS-RL: Adaptive Vector Scaling Reinforcement Learning For Human-in-the-Loop Lane Departure Warning***
+                  
                   *Armand Ahadi-Sarkani (University of California, Irvine), Salma Elmalaki (University of California, Irvine)
                   
 cphs21-s3-paper2: ***Design of a Lightweight and Flexible Knee Exoskeleton with Compensation Strategy***
+                  
                   *Zhipeng Wang (Haribin Institute of Technology), Chifu Yang (Haribin Institute of Technology), Feng Jiang (Haribin Institute of Technology), Chunzhi Yi (Haribin Institute of Technology), Zhen Ding (Haribin Institute of Technology), Baichun Wei (Haribin Institute of Technology), Jie Liu (Haribin Institute of Technology (Shenzhen))
                   
 ## Closing Remark
