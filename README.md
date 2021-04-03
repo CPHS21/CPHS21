@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 - **cphs21-s1-paper1**: ***Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition***
                  
-     Tahiya Chowdhury (Rutgers University), Murtadha Aldeer (Rutgers University), Richard Howard (Rutgers University), Justin Yu (Rutgers University), Joseph Florentine (Rutgers University), Amber Haynes (Rutgers University), Jorge Ortiz (Rutgers University)
+     Tahiya Chowdhury (Rutgers University), Murtadha Aldeer (Rutgers University), Justin Yu (Rutgers University), Joseph Florentine (Rutgers University), Amber Haynes (Rutgers University), Jorge Ortiz (Rutgers University)
                  
 - **cphs21-s1-paper2**: ***Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling*** 
                   
