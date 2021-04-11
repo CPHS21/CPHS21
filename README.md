@@ -46,7 +46,7 @@ ________________________________________________________________________________
                  
 - **cphs21-s1-paper2**: ***Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling*** 
                   
-     Tong Yu (Carnegie Mellon University), Yue Zhang (University of California, Merced), Zhizhang Hu (University of California, Merced), Susu Xu (Stony Brook University), Shijia Pan (University of California, Merced), Tong Yu (Carnegie Mellon University)
+     Tong Yu (Carnegie Mellon University), Yue Zhang (University of California, Merced), Zhizhang Hu (University of California, Merced), Susu Xu (Stony Brook University), Shijia Pan (University of California, Merced)
                   
 - **cphs21-s1-paper3**: ***Is That You Again? Adaptive Learning Techniques for User Identification in Smart Pill Bottle Systems***
                   
