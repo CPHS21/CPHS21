@@ -44,7 +44,7 @@ ________________________________________________________________________________
                  
      Tahiya Chowdhury (Rutgers University), Murtadha Aldeer (Rutgers University), Justin Yu (Rutgers University), Joseph Florentine (Rutgers University), Amber Haynes (Rutgers University), Jorge Ortiz (Rutgers University)
                  
-- **cphs21-s1-paper2**: ***Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling*** 
+- **cphs21-s1-paper2**: ***Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling (invited)*** 
                   
      Tong Yu (Carnegie Mellon University), Yue Zhang (University of California, Merced), Zhizhang Hu (University of California, Merced), Susu Xu (Stony Brook University), Shijia Pan (University of California, Merced)
                   
