@@ -63,7 +63,7 @@ ________________________________________________________________________________
 ## Panel Discussion 
 9 - 10PM EST
 
- -**Panel** : Challenges and Opportunities in Designing and Developing Cyber-Physical-Human Systems 
+ -**Panel** : ***Challenges and Opportunities in Designing and Developing Cyber-Physical-Human Systems ***
     
    Yingying Chen, Professor, Electrical and Computer Engineering, Rutgers University
 
