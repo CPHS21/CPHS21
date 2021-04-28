@@ -63,17 +63,16 @@ ________________________________________________________________________________
 ## Panel Discussion 
 9 - 10PM EST
 
- -**Title** : Challenges and Opportunities in Designing and Developing Cyber-Physical-Human Systems 
+ -**Panel** : Challenges and Opportunities in Designing and Developing Cyber-Physical-Human Systems 
+    Yingying Chen, Professor, Electrical and Computer Engineering, Rutgers University
 
-  Yingying Chen, Professor, Electrical and Computer Engineering, Rutgers University
+    Santosh Kumar, Professor, Director of NIH mHealth Center for Discovery, Optimization, and Translation of Temporally-Precise Interventions, The University of Memphis
 
-  Santosh Kumar, Professor, Director of NIH mHealth Center for Discovery, Optimization, and Translation of Temporally-Precise Interventions, The University of Memphis
+    Jie Liu, Professor, Director of AI Institute, HIT-SZ
 
-  Jie Liu, Professor, Director of AI Institute, HIT-SZ
+    Jorge Ortiz, Assistant Professor, Rutgers University
 
-  Jorge Ortiz, Assistant Professor, Rutgers University
-  
-  Moderator: Rong Zheng, Professor, McMaster University
+    Moderator: Rong Zheng, Professor, McMaster University
 
 ## Session 2: Sensing for Human
 10:10 - 10:30PM EST, 12 min + 3 min Q & A for the paper, 5 min for the demo/poster
