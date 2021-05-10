@@ -42,6 +42,8 @@ ________________________________________________________________________________
    With the ubiquitous deployment of Wi-Fi infrastructure in ordinary homes, WiFi-based contactless sensing has become an ideal way for elder care and health monitoring. While continuous daily activity monitoring has been found inaccurate and unstable using commodity Wi-Fi signals, due to well-known challenges in automatic activity segmentation and location/orientation independent activity recognition, hindering real applications of commodity WiFi-based solutions in home-based elder care. In this work, with the insight that an elder’s health status and living habits are closely related to one’s daily spatio-temporal activity patterns, we propose to build a continuous daily status monitoring system for elders using home-owned WiFi infrastructure. Specifically, we develop WiBorder – an accurate room-level localization algorithm to determine an elder’s location in real-time, and a continuous activity segmentation and identification system to report elder’s activity status, in such a way we could obtain an elder’s daily status log in the form of triple (time, location, activity) continuously and non-intrusively. By analyzing and visualizing an elder’s daily status log, we could inform an elder’s daily habits, health status, abnormal events and gradual behavior changes. 
 
 ## Session 1: Human Sensing  
+Session Chair: Prof. Feng Li
+
 8 - 9PM EST,  12 min + 3 min Q & A for each paper
 
 - **cphs21-s1-paper1**: ***Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition***
