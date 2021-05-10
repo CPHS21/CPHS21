@@ -78,6 +78,8 @@ Session Chair: Prof. Feng Li
    Moderator: Rong Zheng, Professor, McMaster University
 
 ## Session 2: Sensing for Human
+Session Chair: Prof. Siyao Cheng
+
 10:10 - 10:30PM EST, 12 min + 3 min Q & A for the paper, 5 min for the demo/poster
 
 - **cphs21-s2-paper1**: ***A Low-Cost and Scalable Personalized Thermal Comfort Estimation System in Indoor*** 
@@ -90,6 +92,8 @@ Session Chair: Prof. Feng Li
 
 
 ## Session 3: Robotics and Assistive Technologies for Human
+Session Chair: Prof. Siyao Cheng
+
 
 10:30 - 11:00PM EST, 12 min + 3 min Q & A for each paper
 
