@@ -30,10 +30,10 @@ ________________________________________________________________________________
 # Tentative Program (Tuesday, May 18th, 2021)
 
 ##  Opening Remark
-6:55PM EST
+6:55PM EDT
            
 ## Keynote
-7 - 8PM  EST
+7 - 8PM  EDT
 
  **Daqing Zhang**,  Chair Professor at Peking University, China and Telecom SudParis, France. His research interests include ubiquitous computing, context-aware computing, big data analytics and Intelligent IoT. He has published more than 300 technical papers in leading conferences and journals, where his work on context model and WiFi-based sensing theory is widely accepted by pervasive computing, mobile computing and service computing communities. His research work got over 20,000 citations with an H-index of 71 (according to Google Scholar). He is the winner of the Ten Years CoMoRea Impact Paper Award at IEEE PerCom 2013 and Ten Years Most Influential Paper Award at IEEE UIC 2019, the Honorable Mention Award at ACM UbiComp 2015 and 2016, etc.. He served as the general or program chair for more than a dozen of international conferences, and in the editorial board of IEEE Pervasive Computing, ACM TIST and ACM IMWUT. He obtained his PhD from University of Rome “La Sapienza” and is a Fellow of IEEE.
  
@@ -44,7 +44,7 @@ ________________________________________________________________________________
 ## Session 1: Human Sensing  
 Session Chair: Prof. Feng Li
 
-8 - 9PM EST,  12 min + 3 min Q & A for each paper
+8 - 9PM EDT,  12 min + 3 min Q & A for each paper
 
 - **cphs21-s1-paper1**: ***Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition***
                  
@@ -63,7 +63,7 @@ Session Chair: Prof. Feng Li
      Siyu Chen (Rutgers University), Yi Yu (Rutgers University), Chong Di (Rutgers University), Duncan T. Stevenson (Rowan University), Mitja Trkov (Rowan University), Jie Gong (Rutgers University), and Jingang Yi (Rutgers University)
 
 ## Panel Discussion 
-9 - 10PM EST
+9 - 10PM EDT
 
  -**Panel** : ***Challenges and Opportunities in Designing and Developing Cyber-Physical-Human Systems***
     
@@ -80,7 +80,7 @@ Session Chair: Prof. Feng Li
 ## Session 2: Sensing for Human
 Session Chair: Prof. Siyao Cheng
 
-10:10 - 10:30PM EST, 12 min + 3 min Q & A for the paper, 5 min for the demo/poster
+10:10 - 10:30PM EDT, 12 min + 3 min Q & A for the paper, 5 min for the demo/poster
 
 - **cphs21-s2-paper1**: ***A Low-Cost and Scalable Personalized Thermal Comfort Estimation System in Indoor*** 
                   
@@ -95,7 +95,7 @@ Session Chair: Prof. Siyao Cheng
 Session Chair: Prof. Siyao Cheng
 
 
-10:30 - 11:00PM EST, 12 min + 3 min Q & A for each paper
+10:30 - 11:00PM EDT, 12 min + 3 min Q & A for each paper
 
 - **cphs21-s3-paper1**: ***ADAS-RL: Adaptive Vector Scaling Reinforcement Learning For Human-in-the-Loop Lane Departure Warning***
                   
@@ -107,7 +107,7 @@ Session Chair: Prof. Siyao Cheng
                   
 ## Closing Remark
 
-11:00PM EST
+11:00PM EDT
 
 ________________________________________________________________________________________________________________
 
