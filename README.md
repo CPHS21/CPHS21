@@ -46,15 +46,15 @@ Session Chair: Prof. Feng Li
 
 8 - 9PM EDT,  12 min + 3 min Q & A for each paper
 
-- **cphs21-s1-paper1**: ***Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition***
+- **cphs21-s1-paper1**: ***Is General Purpose Sensing a Pipe Dream? A Case Study in Ambient Multi-sensing for Human Activity Recognition*** [file](https://dl.acm.org/doi/10.1145/3458648.3460010)
                  
      Tahiya Chowdhury (Rutgers University), Murtadha Aldeer (Rutgers University), Justin Yu (Rutgers University), Joseph Florentine (Rutgers University), Amber Haynes (Rutgers University), Jorge Ortiz (Rutgers University)
                  
-- **cphs21-s1-paper2**: ***Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling (invited)*** 
+- **cphs21-s1-paper2**: ***Vibration-Based Indoor Human Sensing Quality Reinforcement via Thompson Sampling (invited)*** [file](https://dl.acm.org/doi/10.1145/3458648.3460012)
                   
      Tong Yu (Carnegie Mellon University), Yue Zhang (University of California, Merced), Zhizhang Hu (University of California, Merced), Susu Xu (Stony Brook University), Shijia Pan (University of California, Merced)
                   
-- **cphs21-s1-paper3**: ***Is That You Again? Adaptive Learning Techniques for User Identification in Smart Pill Bottle Systems***
+- **cphs21-s1-paper3**: ***Is That You Again? Adaptive Learning Techniques for User Identification in Smart Pill Bottle Systems*** [file](https://dl.acm.org/doi/10.1145/3458648.3460011)
                   
      Murtadha Aldeer (Rutgers University), Richard Howard (Rutgers University), Richard P. Martin (Rutgers University), Jorge Ortiz (Rutgers University)
                   
@@ -82,11 +82,11 @@ Session Chair: Prof. Siyao Cheng
 
 10:10 - 10:30PM EDT, 12 min + 3 min Q & A for the paper, 5 min for the demo/poster
 
-- **cphs21-s2-paper1**: ***A Low-Cost and Scalable Personalized Thermal Comfort Estimation System in Indoor*** 
+- **cphs21-s2-paper1**: ***A Low-Cost and Scalable Personalized Thermal Comfort Estimation System in Indoor*** [file](https://dl.acm.org/doi/10.1145/3458648.3460006)
                   
      Peter Wei (Columbia University), Yanchen Liu (Columbia University), Hengjiu Kang (Columbia University), Chenye Yang (Columbia University), Xiaofan Jiang (Columbia University)
                   
-- **cphs21-s2-demo/poster1**:  ***Metadata-based IoT device automated management system***
+- **cphs21-s2-demo/poster1**:  ***Metadata-based IoT device automated management system*** [file](https://dl.acm.org/doi/10.1145/3458648.3460009)
                         
      Zhaoxin Luo (Haribin Institute of Technology), Zhijun Li (Haribin Institute of Technology), Simin Luan (Harbin Engineering University), Weijun Zhuang (Haribin Institute of Technology (Shenzhen)), Junqi Yang (Haribin Institute of Technology)
 
@@ -97,11 +97,11 @@ Session Chair: Prof. Siyao Cheng
 
 10:30 - 11:00PM EDT, 12 min + 3 min Q & A for each paper
 
-- **cphs21-s3-paper1**: ***ADAS-RL: Adaptive Vector Scaling Reinforcement Learning For Human-in-the-Loop Lane Departure Warning***
+- **cphs21-s3-paper1**: ***ADAS-RL: Adaptive Vector Scaling Reinforcement Learning For Human-in-the-Loop Lane Departure Warning*** [file](https://dl.acm.org/doi/10.1145/3458648.3460008)
                   
      Armand Ahadi-Sarkani (University of California, Irvine), Salma Elmalaki (University of California, Irvine)
                   
-- **cphs21-s3-paper2**: ***Design of a Lightweight and Flexible Knee Exoskeleton with Compensation Strategy***
+- **cphs21-s3-paper2**: ***Design of a Lightweight and Flexible Knee Exoskeleton with Compensation Strategy*** [file](https://dl.acm.org/doi/10.1145/3458648.3460007)
                   
      Zhipeng Wang (Haribin Institute of Technology), Chifu Yang (Haribin Institute of Technology), Feng Jiang (Haribin Institute of Technology), Chunzhi Yi (Haribin Institute of Technology), Zhen Ding (Haribin Institute of Technology), Baichun Wei (Haribin Institute of Technology), Jie Liu (Haribin Institute of Technology (Shenzhen))
                   
